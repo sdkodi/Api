@@ -1,0 +1,1 @@
+{"jsonrpc": "2.0", "id": 0, "result": {"movies": [{"rating": 6.5, "movieid": 15, "trailer": "plugin://plugin.video.youtube/?action=play_video&videoid=YT9VyEbUkCo", "label": "Un trabajo en Italia (The Italian Job)"}], "limits": {"start": 0, "total": 2, "end": 1}}}
